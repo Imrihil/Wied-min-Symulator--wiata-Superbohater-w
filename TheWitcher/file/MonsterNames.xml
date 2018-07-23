@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_45" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <string>Barghest</string>
+  </void>
+  <void method="add">
+   <string>Bazyliszek</string>
+  </void>
+  <void method="add">
+   <string>Bruxa</string>
+  </void>
+  <void method="add">
+   <string>Fleder</string>
+  </void>
+  <void method="add">
+   <string>Garkain</string>
+  </void>
+  <void method="add">
+   <string>Ghoul</string>
+  </void>
+  <void method="add">
+   <string>Ifrit</string>
+  </void>
+  <void method="add">
+   <string>Kikimora</string>
+  </void>
+  <void method="add">
+   <string>Strzyga</string>
+  </void>
+  <void method="add">
+   <string>Upiór</string>
+  </void>
+  <void method="add">
+   <string>Utopiec</string>
+  </void>
+  <void method="add">
+   <string>Wiwerna</string>
+  </void>
+  <void method="add">
+   <string>Wiwerna Królewska</string>
+  </void>
+ </object>
+</java>

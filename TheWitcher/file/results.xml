@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_45" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="thewitcher.Wynik">
+    <void property="kills">
+     <int>20</int>
+    </void>
+    <void property="name">
+     <string>Imrihil</string>
+    </void>
+    <void property="time">
+     <long>226</long>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="thewitcher.Wynik">
+    <void property="name">
+     <string>Imrihil</string>
+    </void>
+    <void property="time">
+     <long>173</long>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="thewitcher.Wynik">
+    <void property="name">
+     <string>Mat</string>
+    </void>
+    <void property="time">
+     <long>173</long>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="thewitcher.Wynik">
+    <void property="kills">
+     <int>11</int>
+    </void>
+    <void property="name">
+     <string>Imrihil</string>
+    </void>
+    <void property="time">
+     <long>172</long>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="thewitcher.Wynik">
+    <void property="name">
+     <string>Imrihil</string>
+    </void>
+    <void property="time">
+     <long>160</long>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

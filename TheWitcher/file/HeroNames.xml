@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_45" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <string>CzaK:Beata</string>
+  </void>
+  <void method="add">
+   <string>CzaK:Filippa Eilhart</string>
+  </void>
+  <void method="add">
+   <string>CzaK:Keira Metz</string>
+  </void>
+  <void method="add">
+   <string>CzaK:Margarita Laux-Antille</string>
+  </void>
+  <void method="add">
+   <string>CzaK:Marti Sodergren</string>
+  </void>
+  <void method="add">
+   <string>CzaK:Sabrina Glavissig</string>
+  </void>
+  <void method="add">
+   <string>CzaK:Sheala de Tancarville</string>
+  </void>
+  <void method="add">
+   <string>CzaK:Tissaia de Vries</string>
+  </void>
+  <void method="add">
+   <string>CzaK:Triss Merigold</string>
+  </void>
+  <void method="add">
+   <string>CzaK:Visenna</string>
+  </void>
+  <void method="add">
+   <string>CzaK:Yennefer</string>
+  </void>
+  <void method="add">
+   <string>CzaM:Bras</string>
+  </void>
+  <void method="add">
+   <string>CzaM:Everden</string>
+  </void>
+  <void method="add">
+   <string>CzaM:Istredd</string>
+  </void>
+  <void method="add">
+   <string>CzaM:Stregobor</string>
+  </void>
+  <void method="add">
+   <string>Kras:Caleb Stratton</string>
+  </void>
+  <void method="add">
+   <string>Kras:Dennis Cranmer</string>
+  </void>
+  <void method="add">
+   <string>Kras:Malcolm Stein</string>
+  </void>
+  <void method="add">
+   <string>Kras:Sheldon Skaggs</string>
+  </void>
+  <void method="add">
+   <string>Kras:Varadi</string>
+  </void>
+  <void method="add">
+   <string>Kras:Yaepen Zirgin</string>
+  </void>
+  <void method="add">
+   <string>Kras:Zoltan Chivay</string>
+  </void>
+  <void method="add">
+   <string>RycK:Rayla</string>
+  </void>
+  <void method="add">
+   <string>RycK:Saskia</string>
+  </void>
+  <void method="add">
+   <string>RycM:Aryan La Valette</string>
+  </void>
+  <void method="add">
+   <string>RycM:Borch</string>
+  </void>
+  <void method="add">
+   <string>RycM:Cahir</string>
+  </void>
+  <void method="add">
+   <string>RycM:Crach</string>
+  </void>
+  <void method="add">
+   <string>RycM:Dariusz</string>
+  </void>
+  <void method="add">
+   <string>RycM:Edwin Leistham</string>
+  </void>
+  <void method="add">
+   <string>RycM:Erkin von Blunt</string>
+  </void>
+  <void method="add">
+   <string>RycM:Imrihil</string>
+  </void>
+  <void method="add">
+   <string>RycM:Jean-Pierre</string>
+  </void>
+  <void method="add">
+   <string>RycM:Letande Avet</string>
+  </void>
+  <void method="add">
+   <string>RycM:Patrick de Weyze</string>
+  </void>
+  <void method="add">
+   <string>RycM:Siegfried of Denesle</string>
+  </void>
+  <void method="add">
+   <string>RycM:Tailles</string>
+  </void>
+  <void method="add">
+   <string>RycM:Vincent Meis</string>
+  </void>
+  <void method="add">
+   <string>RycM:Vinson Traut</string>
+  </void>
+  <void method="add">
+   <string>WieK:Ciri</string>
+  </void>
+  <void method="add">
+   <string>WieM:Adela</string>
+  </void>
+  <void method="add">
+   <string>WieM:Aubry</string>
+  </void>
+  <void method="add">
+   <string>WieM:Berengar</string>
+  </void>
+  <void method="add">
+   <string>WieM:Brehen</string>
+  </void>
+  <void method="add">
+   <string>WieM:Chireadan</string>
+  </void>
+  <void method="add">
+   <string>WieM:Clovis</string>
+  </void>
+  <void method="add">
+   <string>WieM:Coen</string>
+  </void>
+  <void method="add">
+   <string>WieM:Cohen</string>
+  </void>
+  <void method="add">
+   <string>WieM:Cormac</string>
+  </void>
+  <void method="add">
+   <string>WieM:Dermor</string>
+  </void>
+  <void method="add">
+   <string>WieM:Egan</string>
+  </void>
+  <void method="add">
+   <string>WieM:Eskel</string>
+  </void>
+  <void method="add">
+   <string>WieM:Falwick</string>
+  </void>
+  <void method="add">
+   <string>WieM:Frank</string>
+  </void>
+  <void method="add">
+   <string>WieM:Gardis</string>
+  </void>
+  <void method="add">
+   <string>WieM:Gascaden</string>
+  </void>
+  <void method="add">
+   <string>WieM:Geralt</string>
+  </void>
+  <void method="add">
+   <string>WieM:Guxart</string>
+  </void>
+  <void method="add">
+   <string>WieM:Gweld</string>
+  </void>
+  <void method="add">
+   <string>WieM:Gwen</string>
+  </void>
+  <void method="add">
+   <string>WieM:Gwidon</string>
+  </void>
+  <void method="add">
+   <string>WieM:Hemminks</string>
+  </void>
+  <void method="add">
+   <string>WieM:Klef</string>
+  </void>
+  <void method="add">
+   <string>WieM:Kruk</string>
+  </void>
+  <void method="add">
+   <string>WieM:Lambert</string>
+  </void>
+  <void method="add">
+   <string>WieM:Leo</string>
+  </void>
+  <void method="add">
+   <string>WieM:Letho</string>
+  </void>
+  <void method="add">
+   <string>WieM:Osbert</string>
+  </void>
+  <void method="add">
+   <string>WieM:Rennes</string>
+  </void>
+  <void method="add">
+   <string>WieM:Serrit</string>
+  </void>
+  <void method="add">
+   <string>WieM:Sorel</string>
+  </void>
+  <void method="add">
+   <string>WieM:Thornwald</string>
+  </void>
+  <void method="add">
+   <string>WieM:Tjold</string>
+  </void>
+  <void method="add">
+   <string>WieM:Treyse</string>
+  </void>
+  <void method="add">
+   <string>WieM:Vesemir</string>
+  </void>
+  <void method="add">
+   <string>WojK:Milva</string>
+  </void>
+  <void method="add">
+   <string>WojK:Rayla</string>
+  </void>
+  <void method="add">
+   <string>WojK:Renfri</string>
+  </void>
+  <void method="add">
+   <string>WojK:Tea</string>
+  </void>
+  <void method="add">
+   <string>WojK:Toruviel</string>
+  </void>
+  <void method="add">
+   <string>WojK:Vea</string>
+  </void>
+  <void method="add">
+   <string>WojK:Ves</string>
+  </void>
+  <void method="add">
+   <string>WojM:Bonhart</string>
+  </void>
+  <void method="add">
+   <string>WojM:Cedric</string>
+  </void>
+  <void method="add">
+   <string>WojM:Dijkstra</string>
+  </void>
+  <void method="add">
+   <string>WojM:Vernon</string>
+  </void>
+ </object>
+</java>
